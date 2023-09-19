@@ -1,7 +1,7 @@
 /******************************************************************************
  * File         :			Hellojava.java
- * Description  : 			My first java program that prints 
- * 							"Hello Java"
+ * Description  : 			This program add two numbers which are predefined 
+ 					in the program 
  * Author       : 			Felix Jobi
  * Version      :			1.0
  * Date         : 			19/09/23
